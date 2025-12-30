@@ -24,7 +24,7 @@ Error Handling: Resilient against network timeouts and API rate limits.
 
 Prerequisites
 
-Python 3.x
+     Python 3.x
 
 An AbuseIPDB API Key (Free tier is sufficient for testing).
 
@@ -34,7 +34,7 @@ Clone or Download the script.
 
 Install dependencies:
 
-pip install requests
+    pip install requests
 
 
 Configure your API Key:
@@ -57,7 +57,7 @@ Note: If the file doesn't exist, the script will create a dummy one for testing.
 
 Run the automation:
 
-python threat_intel_bot.py
+    python threat_intel_bot.py
 
 
 Check the results:
